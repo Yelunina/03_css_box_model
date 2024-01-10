@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(245, 217, 221);
+    font-size: 32px;
+    margin: 0;
+}
+.outer1{
+    background-color: blue;
+    height: 200px;
+    margin-bottom: 20px;
+    /* padding-top: 1px; */
+    border-top: 1px solid transparent;
+}
+.inner1{
+    background-color: red;
+    height: 100px;
+    width: 80%;
+    /* padding-left: 15px;
+    padding-top: 25px; */
+    padding: 10px 15px 20px;
+    /* margin-left: 20px;
+    margin-top: 14px; */
+    margin: 14px auto 0;
+}
+.outer2{
+    background-color: green;
+    height: 200px;
+    margin-top: 10px;
+}
